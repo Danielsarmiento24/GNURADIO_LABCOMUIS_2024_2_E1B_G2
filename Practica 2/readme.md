@@ -9,12 +9,17 @@ Para trabajar el ruido blanco gaussiano, se elaboró un esquema el cual tenía c
 
 ![Captura_2](https://github.com/user-attachments/assets/02d3e9d1-149d-4720-b279-80ad0ec9fce2)
 
+En esta parte del laboratorio aprendi que al aumentar la frecuencia de corte la señal mostrada va a tener a parecerse a una señal cuadrada.
+
 Tambien durante la practica se trabajo con una señal de sonido en nuestro caso utilizamos despecha de rosalia una cancion para poder analizar y ver su comportamiento comprender tambien desde otra perspectiva los temas del
 laboratorio a continuacion añado imagen tomada desde el portatil de la señal de audio
 ![captura_sonido_2](https://github.com/user-attachments/assets/5a1688f3-9b05-4d29-928f-d0737cd51aa1)
+En esta parte aprendi que al disminuir el ruido la señal de audio cambia tiene un sonido distinto  y al verla en la pantalla se aprecia su comportamiento 
 
 Por ultimo se utilizo una antena, el procedimiento fue "sencillo" se tenia un emisor y un receptor el cual deberian ser bien apuntados para tene runa buena potencia y muestras de la señal y poder analizarla desde el analizador de espectros 
 ![image](https://github.com/user-attachments/assets/d48c1d80-b328-4982-a8ae-058259502ca4)
+
+En esta parte aprendi a que se debe que tener cuidado en el uso de antenas al momento de mandar y recibir una señal ya que con  variaciones del emisor y del recpeto la potencia de la señal va a disminuir y los armonicos no se podrian analizar o estudiar bien
 
 Algunos calculos a tener en cuenta son los de Potencia de la Señal Potencia del ruido y Relación Señal a Ruido
 𝑆𝑁𝑅 = 10 𝑙𝑜𝑔( 𝑃𝑠𝑒ñ𝑎𝑙/𝑃𝑟𝑢𝑖𝑑𝑜 ) Se realizaron los cálculos para cada tipo de señal usando las fórmulas anteriores y los resultados fueron los siguientes:
