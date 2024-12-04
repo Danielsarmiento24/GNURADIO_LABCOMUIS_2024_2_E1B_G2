@@ -1,8 +1,8 @@
-En esta práctica de laboratorio, se utilizaron herramientas como GNURadio para experimentar con diferentes tipos de señales y filtros, evaluando el impacto del ruido y de la distorsión de las señales en un entorno controlado. Se pondrá
+En esta práctica de laboratorio, se utilizaron herramientas como GNURadio para experimentar con diferentes tipos de señales y filtros, evaluando el impacto del ruido y de la distorsión de las señales en un entorno controlado. Se puso
 especial énfasis en la influencia del ruido aditivo blanco gaussiano (AWGN) y el filtrado de señales como el coseno y la onda cuadrada, analizando su comportamiento en el
 dominio del tiempo y la frecuencia. Durante la práctica, se tuvo la oportunidad de observar cómo estos modelos afectan la calidad de la señal transmitida y cómo pueden mitigar sus efectos. Además, se evaluaron
 aspectos clave como la relación señal-ruido y la eficiencia en la transmisión de datos.
-Este enfoque permitió no solo verificar las teorías aprendidas en clase, sino también desarrollar habilidades prácticas en la evaluación y mejora del rendimiento de los sistemas de comunicación. Al finalizar, los estudiantes deberán tener una
+Este enfoque permitió no solo verificar las teorías aprendidas en clase, sino también desarrollar habilidades prácticas en la evaluación y mejora del rendimiento de los sistemas de comunicación. Al finalizar, se obtuvo 
 comprensión más profunda de cómo los modelos de canal influyen en la comunicación y cómo aplicar soluciones para optimizar el desempeño de los sistemas en situaciones reales.
 
 Para trabajar el ruido blanco gaussiano, se elaboró un esquema el cual tenía como variables disponibles: banda de transición, frecuencia de corte, amplitud del ruido, frecuencia de la señal y amplitud de la señal; parámetros que es importante reconocer su afectación en el sistema
