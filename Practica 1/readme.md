@@ -7,6 +7,9 @@ frecuencia de muestreo, un concepto clave en el procesamiento digital de señale
 efectos y la importancia de una correcta configuración.
 ![evidencia parte 2](https://github.com/user-attachments/assets/88bbc1fd-5c66-4462-a1d5-1fd462d01864)
 
+En esta practica que paara construir un sistema de muestreo eficiente, es esencial entender bien las señales que ingresarán y,
+si es posible, definirlas completamente. Esto permite obtener mediciones precisas tanto de la amplitud como de la frecuencia de las señales
+
 En la Parte B, se integran equipos de laboratorio como un radio, cable coaxial, etc, con GNU Radio, permitiendo observar por primera vez las señales en el dominio del tiempo y la frecuencia,
 generadas mediante radios definidos por software (SDR). Este enfoque proporciona una visión práctica sobre el procesamiento de señales, incluyendo la captura, medición y análisis de
 señales utilizando herramientas de software y hardware, fortaleciendo la comprensión de las aplicaciones modernas en el área decomunicaciones.
@@ -15,6 +18,5 @@ señales utilizando herramientas de software y hardware, fortaleciendo la compre
 La medición de la atenuación de un cable coaxial permite evaluar su rendimiento y determinar su capacidad para transmitir señales, esta medida resulta importante como estudiante ya que permite
 comprender el impacto que puede tener el medio de transmisión en la calidad de la señal. Como consideraciones mínimas a tener en cuenta en el analizador de espectro es el nivel de ruido, la
 sensibilidad del equipo, la frecuencia de operación, la calibración del equipo y la selección de unadecuado RBW.
+Tambien que Los cables coaxiales pierden eficiencia a medida que la frecuencia aumenta, lo que se traduce en una mayor atenuación o pérdida de señal. Aunque se puede compensar un poco aumentando la ganancia del transmisor, la pérdida a altas frecuencias sigue siendo considerable.
 
-El objetivo final de este laboratorio fue dotar al estudiante de los conocimientos y habilidades fundamentales para operar y analizar sistemas de
-procesamiento de señales mediante el uso de GNURadio y SDR, brindando una experiencia integral en el campo de las telecomunicaciones.
