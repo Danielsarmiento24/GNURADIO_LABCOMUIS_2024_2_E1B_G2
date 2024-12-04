@@ -2,8 +2,7 @@ El objetivo de este laboratorio fue estudiar y analizar el comportamiento de la 
 herramientas analíticas como un osciloscopio, GNU Radio y un analizador de espectro. Creando y procesando una señal de mensaje, se evaluaron diferentes
 configuraciones de índice de modulación, ganancia y frecuencia portadora para comprender mejor la influencia de estos parámetros en el espectro de la señal modulada.
 Además, se analizo el complejo diseño de la envolvente para representar señales de paso de banda durante la modulación lineal, una técnica importante para
-representar y procesar señales de banda base. Estos experimentos proporcionarán una comprensión fundamental de las características y el comportamiento de
-las señales moduladas en diferentes escenarios.
+representar y procesar señales de banda base.
 
 Parte A: Modulaciones Lineales 
 En esta parte, se utilizó GNU Radio para representar la señal modulada en banda base mediante su envolvente compleja. Este modelo en banda base facilita la
