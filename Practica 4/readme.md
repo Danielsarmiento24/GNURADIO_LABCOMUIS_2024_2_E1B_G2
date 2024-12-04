@@ -18,3 +18,6 @@ Ejemplo de la señal vista desde GNU Radio
 
 Ejemplo de la KP*Am=16
 ![KP=8 AM=2 FOTO 1](https://github.com/user-attachments/assets/9b95cc0d-a438-4307-b451-b3440e04210a)
+Al aumentar el kp y el am el coeficiente de bessel aumenta tambien va aumentar la cantidad de bandas laterales que se aprecian en el analizador.
+
+Durante esta practica aprendi como identificar y como aparecen en el analizador de espectros a modulacion angular banda ancha y la modulacion angular banda estrecha tambien como al modificar el kp y el am para llegar a estas modulaciones si el cambio es menor no se puede apreciar en el osciloscopio el cambio pero con el tiempo si se nota, tambien que al aumentar el coeficiente el periodo de la señal vista en el osciloscopio aumenta.
