@@ -7,7 +7,7 @@ frecuencia de muestreo, un concepto clave en el procesamiento digital de señale
 efectos y la importancia de una correcta configuración.
 ![evidencia parte 2](https://github.com/user-attachments/assets/88bbc1fd-5c66-4462-a1d5-1fd462d01864)
 
-En esta practica que paara construir un sistema de muestreo eficiente, es esencial entender bien las señales que ingresarán y,
+En esta practicase aprendio  que para construir un sistema de muestreo eficiente, es esencial entender bien las señales que ingresarán y,
 si es posible, definirlas completamente. Esto permite obtener mediciones precisas tanto de la amplitud como de la frecuencia de las señales
 
 En la Parte B, se integran equipos de laboratorio como un radio, cable coaxial, etc, con GNU Radio, permitiendo observar por primera vez las señales en el dominio del tiempo y la frecuencia,
