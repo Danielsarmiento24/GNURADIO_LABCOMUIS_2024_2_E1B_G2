@@ -21,6 +21,9 @@ NdB = 20 log10 (ka*Am/2)
 ![image](https://github.com/user-attachments/assets/cae35bde-7ee2-44c6-afc5-940f34eebb57)
 
 ![evidencia como medir frecuencia osciloscopio](https://github.com/user-attachments/assets/5f97beda-b3a3-49a9-b187-afcc10d3345a)
+En esta practica aprendi a identificar las señales sobremoduladas submoduladas y moduladas, tambien que el índice de modulación es un parámetro clave para determinar la calidad de la señal.
+El laboratorio me  permitió comprender cómo varían las características de la señal modulada en función del índice de modulación y la frecuencia portadora en sistemas de modulación en amplitud.
+
 
 Adjunto tablas de evidencia https://docs.google.com/spreadsheets/d/1oss404eMRR9C0D6AIvPfBZg7CLzfMg9uvShGy5-CnF8/edit?usp=sharing
 
@@ -38,5 +41,7 @@ Asu vez tambien se analizo como seria con una señal de audio y las siguientes i
 3. Genere una Señal modulada en 120 %; Frecuencia de portadora 350 MHz, Ganancia de TX = 20 dB,
 
 ![parte 3 b  señal 2 analizador](https://github.com/user-attachments/assets/f023af29-8a9c-4416-a34e-e7e7bd8471c6)
+
+En esta parte del laboratorio aprendi que a medida que aumenta el índice de modulación, también aumenta el ancho de banda ocupado por la señal. En el caso de la sobremodulación, el ancho de banda es mayor,lo cual puede ser un problema en entornos donde el ancho de banda es limitado.Tambien que la  cantidad de muestras por símbolo afecta la precisión con la que la señal de mensaje es representada en la señal modulada. Una menor cantidad de muestras por símbolo reduce la resolución temporal y puede hacer que la señal aparezca escalonada o menos precisa
 
 Adjunto enlace a excel con los datos https://docs.google.com/spreadsheets/d/1ITrQqKQa1S7jeqcPcN-EvbeikLnNdCixtEXV4y0h1yg/edit?usp=sharing
