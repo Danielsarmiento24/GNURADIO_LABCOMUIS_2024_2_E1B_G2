@@ -10,6 +10,8 @@ Ejemplo de Ancho de banda señal recibida emisora 90.7Mhz
 Ejemplo de Imagen de evidencia de la señal demodulada donde identifique cada uno de sus caracteristicas emisora 90.7Mhz
 ![EVI1_90_7](https://github.com/user-attachments/assets/1d158150-0230-4945-8d76-e0ee456b6a6b)
 
+Esta practica me gusto bastante ya que desde niños utilizamos las radios para escuchar la musica emisoras y demas y poder aprender a como diferenciar y que tambien deben que cumplir ciertas regulaciones dadas esinterasente, asu vez como cada emisora tiene una potencia distinta y que todas no tienen o cumplen con los siguientes componentes L+R, señal piloto, L-R,RBDS y Subcarriers.
+
 Para la segunda parte, se varió kpAm tanto menor que 0.1 como mayor que 4, todo esto, para relacionar la modulación angular con las modulaciones lineales, mediante el osciloscopio, analizador de frecuencias y gracias a esto, estimar potencias y anchos de banda, Teniendo en cuenta el respectivo nombre de cada modulacion banda estrecha y banda ancha
 Por otro lado, los coeficientes de bessel que se calcularon y recopilaron en una tabla gracias a la señal proporcionada por el analizador de espectros, que medía la potencia de cada uno de ellos y se obtuvo para Betha = 14 y Betha=16.
 Ejemplo de la señal vista desde GNU Radio 
